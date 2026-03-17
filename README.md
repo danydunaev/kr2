@@ -1,4 +1,3 @@
-```markdown
 # FastAPI Practice Project
 
 Учебный проект для изучения FastAPI, включающий работу с Pydantic моделями, аутентификацией, cookie и заголовками HTTP.
